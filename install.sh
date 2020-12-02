@@ -4,6 +4,7 @@ sleep 1
 echo installing
 pkg install proot
 mv root $PREFIX/bin
+cd $PREFIX/bin
 chmod +x root
 sleep 2
 clear
