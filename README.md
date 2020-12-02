@@ -12,4 +12,4 @@ Fake root for Termux
 ***./install.sh***
 
 # Warning 
-** If u copy don't forget to give me credit 😎😎**
+**If u copy don't forget to give me credit 😎😎**
