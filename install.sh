@@ -1,5 +1,5 @@
 clear
-printf '\033[32m;echo script by thelearn-tech
+printf '\033[32m';echo script by thelearn-tech
 sleep 1
 echo installing
 pkg install proot
@@ -13,3 +13,4 @@ cd
 echo type "root" for fake root
 rm -rf fake-root
 exit 1
+clear
